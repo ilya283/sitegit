@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 7" width="8" height="7">
+	<title>стрелки</title>
+	<defs>
+		<image  width="8" height="299" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAErAgMAAACeLio0AAAAAXNSR0IB2cksfwAAAAlQTFRFQ0JC////Q0JCBLQj0QAAAAN0Uk5T/wAARO7wMwAAACtJREFUeJxjEBVlcPViCExiCMkAkUA2UCQ0dBSNImIRFZMQtYwabObgNg0A5ejAI5SEVUAAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="стрелки" href="#img1" x="0" y="0" />
+</svg>

@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7 8" width="7" height="8">
+	<title>стрелка красная</title>
+	<defs>
+		<image  width="7" height="8" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAIAQMAAAAPyndFAAAAAXNSR0IB2cksfwAAAAZQTFRFzQICzQICnZcp8wAAAAJ0Uk5T/wDltzBKAAAAE0lEQVR4nGOoYdjFcI3hHQOUBgAszAX1j0vSZQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="стрелка красная" href="#img1" x="0" y="0" />
+</svg>

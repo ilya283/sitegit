@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 31" width="31" height="31">
+	<title>главная</title>
+	<defs>
+		<image  width="31" height="31" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAMAAAAocOYLAAAAAXNSR0IB2cksfwAAAf5QTFRF////AAAAAAAAAAAAAAAAAAAAAAAAWFhYqKioqqqqp6enp6enZGRkAAAAAAAAvLy8ysrKjIyMgoKCiYmJxMTEvLy8AAAAvr6+lpaWDQ0NAAAAAAAAAAAAAAAAAAAAAAAAAAAACAgIvr6+AAAAb29vvLy8BQUFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqampi4uLurq6aGhoAAAARUVF8/PzFRUV8PDwNjY2WVlZwcHBwsLCT09PAAAAYGBg+fn5////MzMz2NjYQEBAycnJw8PDTExMAAAAe3t7////////////S0tLvb29VFRUxsbG0tLS////////ZmZmn5+fY2Nj////////dXV1OTk5JCQkwMDA////////gYGBrq6u////////jY2N////////////AAAAHh4e////////nJyc1dXV////////CQkJfn5+////////XV1d/Pz8////////////ISEhGBgYJycn////LS0tGxsb3t7eaWlphISE////////tLS0PDw8BgYG////AwMDw8PDKioq////Xl5eSEhI////lpaWSkpKxsbGnJycnJycAAAAAAAAAAAAAAAAv7+/VFRUAAAAQkJCxsbGjo6OvLy8R0dHKysrfX19xMTEqamppaWlxcXFz8/PyMjIsrKyExMTAAAA+IGe1AAAAKp0Uk5TAAIABAgKDiRSXF1VKgYUbrG1tbWycxZ0tbWwra6pp6qvtHkQMrK0op+dm5manqizsz9staGZmZmZmbV3gLWrmZl6mZm1iYK1nJlfIGyZmZmLmRtcmZmZDVqZmZmZJkyZmTFTmUQXeaCZhzuZmRkJmZlNYZmZAihDmZmZC5mZmZmZVn6ZmZlBmYGZL7WZmZm1gUe0sqalsX61rLWJN3+1tbWKQlOEl4ddGBIt8T/YAAAB7klEQVR4nH3T91vTQBjA8TsyBBEU0KKGUDUKuZG4QIMjRYo0FgUciGht3da9iuIWFHdlioKKivu/9C4tYmPj96fk+bzPPXme3AuAG/y3AreMCqLkTRTcEVflOYVFc3MrKp4nl0DuUCidv6Cs3FvFwkUBNsBcrly8ZKnCqlLU6qCSbdny8hWawLxk5aqaYK2uI4QJj1JDZ9Waq9esFQsAlNatr6rDmGH9ho1WQ2aEUqwrmzbLkB2/ZattUExJqHFbU7ieZKNIbd6ucW+JqIg6ZEe0deeutvY/7pjNHdy1loiJKCW794C9+zr3+zhm3nWg++AhH3dI7HA8QWbzuEGOHD3W7e86PX7iZNjfEQpFwakGX8enk2fA2XP/cXL+wkXrkp+zD7h8BVy9NntArhMHJVM919t8nSLSeaMn1UvIzfzukFuNt+OJO3fv3c/nhP3BB31d8f6Hj6xej6vc2S8aCD8GIBpKxJ785fLTSJA775n1HLRayVgTe0YzXvlC0Sk/ADvkZSqdTr8a4LO6PTjE7484PDI6pjs8ow4xMNhNxNh4PV5RLEEAhNI3b0dtc4xXbaoTE3aQvZj2+OS7AL+/UHz/oWzqo7fJT5+nRejujxj48vWbt+8/foows39QkGTtV26aLAlwZj/zrW92gX8D9PvBTDjl2sAAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="главная">
+		<g id="шапка">
+			<use id="тел" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

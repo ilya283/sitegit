@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" width="10" height="10">
+	<title>квадратик </title>
+	<defs>
+		<image  width="10" height="10" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKAQMAAAC3/F3+AAAAAXNSR0IB2cksfwAAAAZQTFRFyQAA////kz7QoQAAAAJ0Uk5T/wDltzBKAAAAE0lEQVR4nGPgYWCAo/8HQAhJBAA6jwPfDQxxYwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="квадратик " href="#img1" x="0" y="0" />
+</svg>

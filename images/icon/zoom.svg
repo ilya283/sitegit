@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 23" width="23" height="23">
+	<title>главная</title>
+	<defs>
+		<image  width="23" height="23" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAMAAADX9CSSAAAAAXNSR0IB2cksfwAAAGNQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZmh03gAAACF0Uk5T4XmwyZ7V//eB3/m3kOr4/vrnq8/86N3e8fTHifCZurTjin7R2QAAAHhJREFUeJylkMkSgCAMQwU14orgvvv/X2k5wtSL5pCZvlzSRNGbBKfvXMYJw1OQMhXyHEVZ1WhCrlvnBtbnFp07FIzP5QsX6J0PGAM+oe3kTJW09XvmrueSkZngrzXehNgp6A9mh1NTcjH7qAW42d3WQf3Z+Tfn9QDfVQVsRBVu9wAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="главная">
+		<g id="проекты">
+			<g id="лупа">
+				<use id="лупа copy 10" style="opacity: 0.502" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>
